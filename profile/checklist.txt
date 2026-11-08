@@ -1,0 +1,5 @@
+Four security practices every developer should follow before committing code to version control:
+1-Never commit secrets.
+2-Review your changes first.
+3-Run tests and security checks locally.
+4-Check your dependencies.
