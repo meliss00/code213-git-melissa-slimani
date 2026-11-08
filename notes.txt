@@ -1,0 +1,18 @@
+1-The difference between git and github:
+-Git is like a save-history system for your project 
+Every time you commit it takes a snapshot you can return to later
+And it does this on your own computer without needing the internet.
+
+GitHub is like a cloud drive built for code
+You upload your Git history there so it’s backed up and visible to others 
+Ready for teamwork through pull requests, issues and reviews.
+
+2-The four Git storage areas:
+-Working directory.
+-Staging area (index).
+-Local repository.
+-Remote repository.
+
+3-Why pre-merge gates matter:
+With gates, automated tests, security scans, and a required code review must pass first
+So problems are caught while they are still cheap and easy to fix.
