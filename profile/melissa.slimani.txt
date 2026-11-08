@@ -1,0 +1,7 @@
+My name is meliss slimani I am 22 years old i dont have any background
+in tech.
+
+Some of the skills i aim to masrter during my learning journey include:
+1-Writing clear commit messages.
+2-Using branches and merging.
+3-Keeping secrets out of Git.
